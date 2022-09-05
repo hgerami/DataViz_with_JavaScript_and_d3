@@ -7,5 +7,5 @@ total weighted similarity index. This dataset has been modified and simplified f
 fully represent actual data found from this post. The provided graph.html file will display a graph (network) in
 a web browser. The goal of this question is to experiment with the visual styling of this graph.</p>
 <ol>
- <li><p>Adding node labels: Modify graph.html to show the node label (the node name, i.e., the source)
+ <li><p><b>Adding node labels:</b> Modify graph.html to show the node label (the node name, i.e., the source)
    at the top right of each node in bold. If a node is dragged, its label must move with it.</p></li>
