@@ -9,3 +9,4 @@ a web browser. The goal of this question is to experiment with the visual stylin
 <ol>
  <li><p><b>Adding node labels:</b> Modify graph.html to show the node label (the node name, i.e., the source)
    at the top right of each node in bold. If a node is dragged, its label must move with it.</p></li>
+ <li></li>
