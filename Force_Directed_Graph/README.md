@@ -18,6 +18,7 @@ a web browser. The goal of this question is to experiment with the visual stylin
 <li><b>Pinning nodes:</b></li>
 <br><br>
 <a href="graph.html">Force Directed Graph Example with JavaScript/d3 </a> 
+<a href="https://alpharank.com/spac_001/hg_training/graph.html">Live Demo of the Code </a> 
 <br><br>
  
   <div  align="center">
