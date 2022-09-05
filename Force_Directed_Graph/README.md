@@ -15,3 +15,4 @@ a web browser. The goal of this question is to experiment with the visual stylin
    <li>If the value of the edge is equal to 1 (not similar), the edge should be green, thin, and dashed.</li></ul>
   </p></li>
  <li><b>Scaling nodes:</b></li>
+<li><b>Pinning nodes:</b></li>
