@@ -16,3 +16,10 @@ a web browser. The goal of this question is to experiment with the visual stylin
   </p></li>
  <li><b>Scaling nodes:</b></li>
 <li><b>Pinning nodes:</b></li>
+ 
+ 
+  <div  align="center">
+  
+ <kbd><img align="center" src="Force_directed_graph.jpg" /></kbd>
+
+</div>
