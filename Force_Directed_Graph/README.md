@@ -25,3 +25,9 @@ a web browser. The goal of this question is to experiment with the visual stylin
  <kbd><img align="center" src="Force_directed_graph.jpg" /></kbd>
 
 </div>
+
+<h3> Reference: </h3>
+<ol>
+<li> <a href="https://omscs.gatech.edu/cse-6242-data-visual-analytics">CSE 6242: Data and Visual Analytics </a> </li>
+
+</ol>
