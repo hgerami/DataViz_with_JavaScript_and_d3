@@ -1,3 +1,5 @@
+<h2>Choropleth Map Layout</h2>
+
 <br><br>
 <a href=" ">Choropleth Map Example with JavaScript/d3 </a> 
  <br><br>
