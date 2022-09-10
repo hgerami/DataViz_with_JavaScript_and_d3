@@ -12,3 +12,8 @@ disappear. </p>
  <kbd><img align="center" src="choropleth.jpg" /></kbd>
 
 </div>
+<h3> Reference: </h3>
+<ol>
+<li> <a href="https://omscs.gatech.edu/cse-6242-data-visual-analytics">CSE 6242: Data and Visual Analytics </a> </li>
+
+</ol>
