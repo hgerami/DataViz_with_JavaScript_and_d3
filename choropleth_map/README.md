@@ -6,3 +6,9 @@ disappear. </p>
  <br><br>
 <a href="https://alpharank.com/spac_001/hg/choropleth.html">Live Demo of the Code </a> 
 <br><br>
+
+  <div  align="center">
+  
+ <kbd><img align="center" src="choropleth.jpg" /></kbd>
+
+</div>
