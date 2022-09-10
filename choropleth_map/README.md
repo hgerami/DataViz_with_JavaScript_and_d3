@@ -1,6 +1,6 @@
 <h2>Choropleth Map Layout</h2>
-<p> The below code is an example of choropleth map and Dropdown is used to enable filtering of data. The tooltip should appear when the mouse hovers over the country. On mouseout, the tooltip should
-disappear. </p>
+<p> The below code is an example of choropleth map and Dropdown is used to enable filtering of data. The code loads the data from ratings-by-country.csv and create a choropleth map such that the color of each country in the map corresponds to the average rating of the game selected in the dropdown in each country. 
+ The tooltip should appear when the mouse hovers over the country. On mouseout, the tooltip should disappear. </p>
 <br><br>
 <a href="choropleth.html">Choropleth Map Example with JavaScript/d3 </a> 
  <br><br>
