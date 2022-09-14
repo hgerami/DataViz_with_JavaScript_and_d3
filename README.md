@@ -4,7 +4,7 @@
 <p> D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of Scalable Vector Graphics, HTML5, and Cascading Style Sheets standards. </p>
 <ul>
 <li> <a href="Force_Directed_Graph/README.md">Force-directed graph layout</a></li>
-<li> Interatcive LineCharts </li>
+<li> <a href="LineChart/README.md">Interatcive LineCharts</a> </li>
 <li> Interatcive PieCharts</li>
 <li> <a href="choropleth_map/README.md">Choropleth Map</a></li>
 
