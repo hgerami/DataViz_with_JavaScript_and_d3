@@ -4,7 +4,7 @@
 <br><br>
 <a href="graph.html">Interactive Line Chart Example with JavaScript/d3 </a> 
  <br><br>
-<a href="https://alpharank.com/spac_001/hg_training/graph.html">Live Demo of the Code </a> 
+<a href="https://alpharank.com/spac_001/hg/InteractiveLineChart.html">Live Demo of the Code </a> 
 <br><br>
  
   <div  align="center">
