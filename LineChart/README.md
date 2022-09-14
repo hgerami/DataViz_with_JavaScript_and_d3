@@ -9,7 +9,7 @@
  
   <div  align="center">
   
- <kbd><img align="center" src="Force_directed_graph.jpg" /></kbd>
+ <kbd><img align="center" src="InteractiveLineChart_Example.jpg" /></kbd>
 
 </div>
 
