@@ -19,7 +19,7 @@ a web browser. The goal of this question is to experiment with the visual stylin
 <br><br>
 <a href="graph.html">Force Directed Graph Example with JavaScript/d3 </a> 
  <br><br>
-<a href="">Live Demo of the Code </a> 
+<a href="https://armandataservices.com/graph.html">Live Demo of the Code </a> 
 <br><br>
  
   <div  align="center">
