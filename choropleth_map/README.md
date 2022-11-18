@@ -4,7 +4,7 @@
 <br><br>
 <a href="choropleth.html">Choropleth Map Example with JavaScript/d3 </a> 
  <br><br>
-<a href="">Live Demo of the Code </a> 
+<a href="https://armandataservices.com/choropleth.html">Live Demo of the Code </a> 
 <br><br>
 
   <div  align="center">
