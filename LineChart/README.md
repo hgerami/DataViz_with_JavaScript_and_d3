@@ -4,7 +4,7 @@
 <br><br>
 <a href="main_29Dec_P.js">Interactive Line Chart Example with JavaScript/d3 </a> 
  <br><br>
-<a href="">Live Demo of the Code </a> 
+<a href="https://armandataservices.com/LineChart/index_29Dec_P.html">Live Demo of the Code </a> 
 <br><br>
  
   <div  align="center">
